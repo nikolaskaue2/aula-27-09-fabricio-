@@ -1,0 +1,22 @@
+1: O levantamento de requisitos é a etapa inicial de um projeto, especialmente no desenvolvimento de software, onde se identifica, analisa e documenta as necessidades e expectativas dos clientes e outros envolvidos para o sistema a ser envolvido.
+
+2: 1° Os requisitos funcionais são as funções, ações e comportamento que um sistema deve fazer (definem a utilidade de um sistema)
+   2° Os requisitos não funcionais definem as qualidades e restrições, o desempenho, a segurança, a usabilidade e a confiabilidade como ele deve fazer isso.
+
+3- tecnicas de elicitação de requisitos:
+	entrevistas: conversas diretas com stakeholders para entender as necessidades e desejos relacionados ao sistema;
+	brainstorming: uma tecnica criativa e de pensamento em grupo para gerar um grande volume de ideias sem julgamentos imediatos;
+	questionários: coletar dados imformações de um grande número de pessoas de forma padronizada e eficiente;
+	Observação: Observar os usuarios em seu ambiente de trabalho para entender as suas necessidades e atividades praticas;
+	Analise de documentos: leitura de documento existe para extrair informações sobre os requisitos atuais e o dominio  do negocio.
+
+4- 5 requisitos funcionais e 3 não funcionais:
+	RF001- Cadastrar clientes
+	RF002- Consultar saldo e extrato do cliente
+	RF003- permitir Depositos e saques
+	RF004- Permitir transferências via pix e boletos
+	RF005- Atendimender via suporte
+
+	RNF001- O sistema deve estar disponivel 24 horas por dia, todos os dias
+	RNF002- O sistema deve ser compativel em dispositivos android e ios
+	RNF003- O sistema deve fazer backups diariamente de dados do cliente
